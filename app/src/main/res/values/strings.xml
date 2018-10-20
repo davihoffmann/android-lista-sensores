@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lista de Sensores</string>
+    <string name="placeHolder">Selecione um sensor</string>
+</resources>
